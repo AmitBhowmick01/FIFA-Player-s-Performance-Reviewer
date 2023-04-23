@@ -1,7 +1,7 @@
 
 # Player's Performance Reviewer
 
-This project is a web application designed to provide a comprehensive analysis of a sports team's performance. The primary focus of the application is to evaluate individual player performance, allowing coaches and team managers to make informed decisions about lineup changes and overall strategy.
+This project is designed to provide a comprehensive analysis of a sports team's performance. The primary focus of the application is to evaluate individual player performance, allowing coaches and team managers to make informed decisions about lineup changes and overall strategy.
 
 # Features
 
