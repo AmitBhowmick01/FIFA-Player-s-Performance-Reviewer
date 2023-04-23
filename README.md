@@ -33,7 +33,7 @@ The Player's Performance Reviewer project utilizes several libraries to support 
 
 **3. Seaborn:** Seaborn is a data visualization library that is used to create various charts and graphs in the Player's Performance Reviewer. Seaborn is used to create bar plots, heatmaps, and scatterplots to visualize player performance data.
 
-**4. atplotlib.pyplot:** Matplotlib is a data visualization library that is used to create various charts and graphs in the Player's Performance Reviewer. Matplotlib is used to create line plots, histograms, and scatterplots to visualize player performance data.
+**4. Matplotlib.pyplot:** Matplotlib is a data visualization library that is used to create various charts and graphs in the Player's Performance Reviewer. Matplotlib is used to create line plots, histograms, and scatterplots to visualize player performance data.
 
 **5. Missingno:** Missingno is a data visualization library that is used to visualize missing data in the Player's Performance Reviewer. This library is used to visualize any missing data in player performance metrics, which can be helpful in identifying data quality issues.
 
